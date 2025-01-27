@@ -294,6 +294,10 @@ Explore various institutions, organizations, and resources for research, interns
 34. [CSIR-Central Food Technological Research Institute (CFTRI)](https://lnkd.in/dXKFj_Az)
 35. [Indian Institute of Information Technology Nagpur (IIITN)](https://lnkd.in/g-nRhsw8)
 36. [Nordita (Nordic Institute for Theoretical Physics)](https://lnkd.in/dS4gXTid)
+
+
+
+For CSE
 37. [National Institute of Immunology (NII)](https://lnkd.in/d87x96yb)
 38. [National Institute of Electronics and Information Technology (NIELIT)](https://lnkd.in/dw6Zjmhd)
 39. [National Institute of Science Education and Research (NISER)](https://www.niser.ac.in/)
